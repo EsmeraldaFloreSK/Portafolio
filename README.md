@@ -10,6 +10,8 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
+****
+
 ## Tecnologías
 
 Esta página fue creada con:
@@ -21,14 +23,16 @@ Esta página fue creada con:
 
 Además se incluyen *Google Fonts*.
 
+****
+
 ## Español
  El texto de la página web está escrito en español, sin embargo la clases relacionadas con Bootstrap se incluyen en inglés.
 
+ ****
+
 ## Contacto
 
-Desarrollado por: Esmeralda Gutierrez en Tecnolochicas PRO Summer Camp
+Desarrollado en Tecnolochicas PRO Summer Camp por [Esmeralda Flores].
 
 
 
-<!-- Desarrollado por:  en Tecnolochicas PRO Summer Camp.
-[Malinali Becerril](https://www.linkedin.com/in/malibb/). -->
