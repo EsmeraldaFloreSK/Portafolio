@@ -32,7 +32,7 @@ Además se incluyen *Google Fonts*.
 
 ## Contacto
 
-Desarrollado en Tecnolochicas PRO Summer Camp por [Esmeralda Flores].
+Desarrollado en Tecnolochicas PRO Summer Camp por [Esmeralda Flores](www.linkedin.com/in/esmeralda-flores-23b112285).
 
 
 
