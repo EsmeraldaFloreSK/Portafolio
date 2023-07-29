@@ -12,9 +12,9 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 
 ****
 ## Demo
-**
+***
 Puedes entrar a ver el demo en este vínculo: https://celebrated-stardust-6a7749.netlify.app/
-![imagen]("./../imagenes/pagina.jpg)
+![imagen]("./../imagenes/portafolio.jpg)
 
 ****
 
