@@ -1,0 +1,138 @@
+#img-perfil{
+    width: 300px;
+    border: radius 1cm;
+}
+
+#img-stack{
+    width: 200px;
+    
+}
+
+#body{
+    background: linear-gradient(#a6cef0, hsl(219, 68%, 78%));
+}
+.container{
+    background-color:hwb(173 77% 20% / 0.7);
+    max-width: 1140px;
+    
+}
+
+.px-4 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+  }
+
+.bg-primary{
+    background-color: #9ab4b5!important;
+}
+
+.nav-link{
+    color: #3a7cdf!important;
+}
+
+.nav-google{
+    color: #f6f5f5!important;
+    font-size: 3rem;
+    margin-bottom: 30px;
+    text-decoration: none;
+    margin:auto;
+    text-align:center;
+}
+
+.text-bg-primary {
+    background-color: #4391fd!important;
+}
+
+.btn-primary {
+    background-color: #eb3a3a!important;
+}
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+
+#proyecto-1{
+    background-image: url(imagenes/pagina.jpg);
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-2{
+    background-image: url('imagenes/google.jpg');
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#proyecto-3{
+    background-image: url('imagenes/portafolio.png');
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* #proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+} */
+
+/* .carousel-item{
+
+
+
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:rgb(0, 0, 0);
+}
+
+.icono {
+    font-size: 2rem;
+    color: rgb(187, 61, 61);
+    margin: 12px;
+}
+
+
+.container{
+    background-color: #4391fd;
+} */
+
+.me-auto{
+    background-color: hsl(7, 5%, 35%);
+    width: 50px;
+    height: 50px;
+    border-radius: 60%;}
+
+#modal-contactame{
+background-color: #978d8d!important;
+    }
+
+#bi-bi-flower1{
+        width: 80px;
+    }
+
+.icono{
+    font-size: 4rem;
+    color: white;
+    margin: 12px;
+}
+
+.bi-emoji-smile{
+    font-size: 4rem;
+    color: rgb(0, 0, 0);
+    margin: 12px;
+}
+
+#modal-hobbies{
+    background-color: #978d8d!important;
+        }
